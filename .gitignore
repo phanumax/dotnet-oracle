@@ -1,0 +1,9 @@
+# Ignore file named "README.txt"
+#README.txt
+
+# Ignore folder named "odacinstall"
+odacinstall/
+src/
+
+# Ignore all .log files
+*.log
